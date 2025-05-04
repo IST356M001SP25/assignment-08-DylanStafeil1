@@ -23,4 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-This assignment helped me reinforce the process of data transformation and visualization using Streamlit and GeoPandas. Building interactive dashboards   gave me a clearer understanding of real-world data workflow and presentation.
+This assignment helped me better understand how to transform data for visualization, even after it’s been cleaned. Building the ETL functions showed me how to isolate meaningful subsets of data, and creating the Streamlit dashboards gave me hands-on experience with building interactive, user-friendly visualizations.
